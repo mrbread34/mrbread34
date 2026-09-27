@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32699801/README.md)
 # Hej👋
 
 I'm a high school student learning to code by building things. I mostly write **Java**, and I'm currently learning **full-stack development** with Node.js. Every project on this page is something I built to practise a concept I was learning at the time, so you can see my progress as it happens.
