@@ -1,6 +1,6 @@
 # Hej👋
 
-I'm a high school student learning to code by building things.
+I'm a high school student learning to code by building things.\
 Every project on this page is something I built to practise a concept I was learning at the time, so you can see my progress as it happens.
 
 ---
