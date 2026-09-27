@@ -39,4 +39,4 @@ every project on this page is something i built to practise a concept i was lear
 
 ---
 
-⭐ *do people actually read this??*
+⭐ *do people actually read this??* anyways, thanks for stopping by!
