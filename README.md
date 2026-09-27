@@ -1,20 +1,21 @@
 # Hej👋
 
-I'm a high school student learning to code by building things.\
-Every project on this page is something I built to practise a concept I was learning at the time, so you can see my progress as it happens.
+i'm a high school student learning to code by building things.\
+every project on this page is something i built to practise a concept i was learning at the time,\
+*so you can see my progress as it happens.*
 
 ---
 
-## who am I?
+## who am i?
 
 - high school student based in aus
 - java is my main language
 - learning full-stack web development
-- I like turning new concepts into small, working projects
+- i like turning new concepts into small, working projects
 
 ---
 
-## what I'm working on
+## what i'm working on
 
 **right now:**
 - a fishing game w/ JavaFX
@@ -22,7 +23,7 @@ Every project on this page is something I built to practise a concept I was lear
 
 ---
 
-## tools I use
+## tools i use
 
 **Languages**
 
@@ -38,4 +39,4 @@ Every project on this page is something I built to practise a concept I was lear
 
 ---
 
-⭐ *Thanks for stopping by!*
+⭐ *do people actually read this??*
